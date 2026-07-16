@@ -178,7 +178,7 @@ I enjoy building systems that go beyond the happy path by considering security, 
 | [Hardened DevSecOps Pipeline](https://github.com/Waliur003/hardened-devsecops-iac-pipeline) | IaC scanning, container scanning, security gates, and insecure deployment prevention |
 | [Zero-Trust EKS Fortress](https://github.com/Waliur003/eks-zerotrust-runtime-fortress) | IRSA, RBAC, Calico policies, OPA Gatekeeper, pod security, KMS, and workload isolation |
 | [Automated Incident Response](https://github.com/Waliur003/automated-incident-response-active-defense) | GuardDuty, Security Hub, EventBridge, Step Functions, Lambda, WAF, and containment automation |
-| Cloud Identity Fortress | AWS Organizations, IAM Identity Center, MFA monitoring, access reviews, and privilege detection |
+| [Cloud Identity Fortress](https://github.com/Waliur003/cloud-identity-fortress) | AWS Organizations, IAM Identity Center, MFA monitoring, access reviews, and privilege detection |
 | Cloud Threat Hunter & SIEM Platform | CloudTrail, VPC Flow Logs, WAF logs, Athena, OpenSearch, detection rules, and alerting |
 
 ---
