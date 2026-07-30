@@ -164,7 +164,7 @@ I enjoy building systems that go beyond the happy path by considering security, 
 | [DevSecOps Ingress Pipeline](https://github.com/Waliur003/devsecops-ingress-pipeline) | Jenkins/GitHub Actions, Docker, Trivy, ECR, Terraform, and automated deployment |
 | [Kubernetes Fortress](https://github.com/Waliur003/eks-kubernetes-fortress-identity-federation) | Amazon EKS, Docker, Helm, Terraform, ingress, autoscaling, identity federation, and observability |
 | [AI Meeting Analyst Pipeline](https://github.com/Waliur003/serverless-ai-meeting-analyst-pipeline) | S3, SQS, Lambda, Transcribe, Bedrock, DynamoDB, and asynchronous processing |
-| Conversion King AI Web Application | EC2, ALB, Auto Scaling, RDS, ElastiCache, Bedrock, CloudWatch, and SNS |
+| [Conversion King AI Web Application](https://github.com/Waliur003/aws-multi-az-alb-ec2-conversion-king) | EC2, ALB, Auto Scaling, RDS, ElastiCache, Bedrock, CloudWatch, and SNS |
 
 ---
 
