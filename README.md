@@ -125,11 +125,11 @@ I enjoy building systems that go beyond the happy path by considering security, 
 
 ### Cloud & Cloud Security
 
+- ✅ AWS Certified Solutions Architect – Associate
 - ✅ AWS Certified Cloud Practitioner
 - ✅ Certificate of Cloud Security Knowledge — CCSK v5
-- 🚧 AWS Certified Solutions Architect – Associate
 - 🚧 HashiCorp Terraform Associate
-- 🎯 AWS Certified Security – Specialty
+- 🚧 AWS Certified Security – Specialty
 
 ### Cybersecurity
 
