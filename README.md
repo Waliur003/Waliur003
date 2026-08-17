@@ -8,6 +8,8 @@ Computer Science student at **The City College of New York** building secure, sc
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waliur-r-sun-22762a31a/)
 [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waliur003)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-FF9900?style=for-the-badge&logo=vercel&logoColor=white)](https://waliursun.netlify.app/)
+
 
 </div>
 
