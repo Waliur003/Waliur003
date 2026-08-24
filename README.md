@@ -131,6 +131,7 @@ I enjoy building systems that go beyond the happy path by considering security, 
 - ✅ AWS Certified Cloud Practitioner
 - ✅ Certificate of Cloud Security Knowledge — CCSK v5
 - 🚧 HashiCorp Terraform Associate
+- 🚧 AWS Certified AI Practitioner
 - 🚧 AWS Certified Security – Specialty
 
 ### Cybersecurity
