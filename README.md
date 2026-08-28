@@ -2,7 +2,7 @@
 
 # Hi, I'm Waliur Sun 👋
 
-### Cloud Engineering • Cloud Security • AI Cloud Security
+### Cloud Engineering • Cloud Security • AI Cloud Engineering • AI Cloud Security
 
 Computer Science student at **The City College of New York** building secure, scalable, automated, and production-minded AWS infrastructure.
 
@@ -10,18 +10,21 @@ Computer Science student at **The City College of New York** building secure, sc
 [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waliur003)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-FF9900?style=for-the-badge&logo=vercel&logoColor=white)](https://waliursun.netlify.app/)
 
-
 </div>
 
 ---
 
 ## About Me
 
-I am a Computer Science undergraduate focused on becoming a **Cloud Security Engineer**.
+I am a Computer Science undergraduate focused on building my career in **Cloud Engineering and Cloud Security**, with a growing specialization in **AI Cloud Engineering and AI Cloud Security**.
 
-My portfolio combines cloud infrastructure, security automation, DevSecOps, Kubernetes, detection engineering, and AI cloud security.
+My portfolio combines cloud infrastructure, Infrastructure as Code, DevOps, DevSecOps, Kubernetes, security automation, detection engineering, serverless architecture, and AI cloud workloads.
 
-I enjoy building systems that go beyond the happy path by considering security, least privilege, monitoring, failure handling, scalability, cost control, recovery, and operational readiness.
+I enjoy understanding what happens behind applications — how infrastructure is designed, automated, deployed, scaled, monitored, secured, optimized, and recovered when something fails.
+
+My projects go beyond the happy path by considering **least privilege, monitoring, failure handling, scalability, availability, cost control, recovery, observability, and operational readiness**.
+
+My long-term goal is to become an engineer who can design and operate secure cloud systems while applying the same infrastructure engineering principles to modern AI workloads.
 
 ---
 
@@ -129,9 +132,8 @@ I enjoy building systems that go beyond the happy path by considering security, 
 
 - ✅ AWS Certified Solutions Architect – Associate
 - ✅ AWS Certified Cloud Practitioner
+- ✅ HashiCorp Certified: Terraform Associate
 - ✅ Certificate of Cloud Security Knowledge — CCSK v5
-- 🚧 HashiCorp Terraform Associate
-- 🚧 AWS Certified AI Practitioner
 - 🚧 AWS Certified Security – Specialty
 
 ### Cybersecurity
@@ -168,6 +170,19 @@ I enjoy building systems that go beyond the happy path by considering security, 
 | [Kubernetes Fortress](https://github.com/Waliur003/eks-kubernetes-fortress-identity-federation) | Amazon EKS, Docker, Helm, Terraform, ingress, autoscaling, identity federation, and observability |
 | [AI Meeting Analyst Pipeline](https://github.com/Waliur003/serverless-ai-meeting-analyst-pipeline) | S3, SQS, Lambda, Transcribe, Bedrock, DynamoDB, and asynchronous processing |
 | [Conversion King AI Web Application](https://github.com/Waliur003/aws-multi-az-alb-ec2-conversion-king) | EC2, ALB, Auto Scaling, RDS, ElastiCache, Bedrock, CloudWatch, and SNS |
+
+---
+
+## AI Cloud Engineering Portfolio
+
+| Project | AI Cloud Engineering Focus |
+|---|---|
+| [Serverless GenAI API with Amazon Bedrock](https://github.com/Waliur003/aws-serverless-genai-bedrock-api) | API Gateway, Lambda, Amazon Bedrock, Python/Boto3, least-privilege IAM, CloudWatch, and Terraform |
+| Production Enterprise RAG System | Amazon S3, Bedrock Knowledge Bases, embeddings, vector retrieval, OpenSearch Serverless, grounded responses, citations, IAM, and Terraform |
+| Reliable Asynchronous AI Inference Pipeline | API Gateway, Lambda, SQS, DLQ, DynamoDB, Bedrock, retries, idempotency, failure handling, CloudWatch, and Terraform |
+| Containerized AI Application on ECS Fargate | Docker, Amazon ECR, ECS Fargate, ALB, VPC networking, autoscaling, Bedrock, IAM task roles, CloudWatch, and Terraform |
+| Multi-Model AI Routing & Automatic Fallback | Bedrock model routing, model abstraction, automatic fallback, resiliency, latency optimization, cost optimization, metrics, and Terraform |
+| AI Cost Governance & Observability Platform | CloudWatch dashboards, custom AI metrics, alarms, AWS Budgets, Cost Anomaly Detection, SNS, tagging, FinOps, and operational monitoring |
 
 ---
 
@@ -219,12 +234,13 @@ My projects are designed to demonstrate more than successful deployment. I focus
 
 ## Current Goals
 
-- Pass AWS Certified Solutions Architect – Associate
-- Earn the HashiCorp Terraform Associate certification
+- Complete the AI Cloud Engineering portfolio
 - Complete the AI Cloud Security portfolio
-- Prepare for AWS Certified Security – Specialty
+- Deepen Linux, networking, Kubernetes, Terraform, and cloud troubleshooting skills
+- Strengthen cloud system design and architecture decision-making
 - Deepen my understanding of every architecture and security decision
-- Secure a cloud, infrastructure, DevOps, or cybersecurity internship
+- Prepare for AWS Certified Security – Specialty after gaining more professional cloud experience
+- Secure a cloud engineering, infrastructure, DevOps, platform engineering, or cloud security internship
 
 ---
 
@@ -250,12 +266,14 @@ My projects are designed to demonstrate more than successful deployment. I focus
 
 [![GitHub](https://img.shields.io/badge/GITHUB-WALIUR003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waliur003)
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-WALIURSUN.NETLIFY.APP-FF9900?style=for-the-badge&logo=vercel&logoColor=white)](https://waliursun.netlify.app/)
+
 </div>
 
 ---
 
 <div align="center">
 
-### Building secure, scalable, and automated cloud systems — one project at a time.
+### Building secure, scalable, automated, and intelligent cloud systems — one architecture at a time.
 
 </div>
