@@ -178,9 +178,9 @@ My long-term goal is to become an engineer who can design and operate secure clo
 | Project | AI Cloud Engineering Focus |
 |---|---|
 | [Serverless GenAI API with Amazon Bedrock](https://github.com/Waliur003/aws-serverless-genai-bedrock-api) | API Gateway, Lambda, Amazon Bedrock, Python/Boto3, least-privilege IAM, CloudWatch, and Terraform |
-| Production Enterprise RAG System | Amazon S3, Bedrock Knowledge Bases, embeddings, vector retrieval, OpenSearch Serverless, grounded responses, citations, IAM, and Terraform |
-| Reliable Asynchronous AI Inference Pipeline | API Gateway, Lambda, SQS, DLQ, DynamoDB, Bedrock, retries, idempotency, failure handling, CloudWatch, and Terraform |
-| Containerized AI Application on ECS Fargate | Docker, Amazon ECR, ECS Fargate, ALB, VPC networking, autoscaling, Bedrock, IAM task roles, CloudWatch, and Terraform |
+| [Production Enterprise RAG System](https://github.com/Waliur003/aws-serverless-rag-bedrock-knowledge-base) | Amazon S3, Bedrock Knowledge Bases, embeddings, vector retrieval, OpenSearch Serverless, grounded responses, citations, IAM, and Terraform |
+| [Reliable Asynchronous AI Inference Pipeline](https://github.com/Waliur003/aws-serverless-async-ai-inference-pipeline) | API Gateway, Lambda, SQS, DLQ, DynamoDB, Bedrock, retries, idempotency, failure handling, CloudWatch, and Terraform |
+| [Containerized AI Application on ECS Fargate](https://github.com/Waliur003/aws-ecs-fargate-genai-microservice) | Docker, Amazon ECR, ECS Fargate, ALB, VPC networking, autoscaling, Bedrock, IAM task roles, CloudWatch, and Terraform |
 | Multi-Model AI Routing & Automatic Fallback | Bedrock model routing, model abstraction, automatic fallback, resiliency, latency optimization, cost optimization, metrics, and Terraform |
 | AI Cost Governance & Observability Platform | CloudWatch dashboards, custom AI metrics, alarms, AWS Budgets, Cost Anomaly Detection, SNS, tagging, FinOps, and operational monitoring |
 
