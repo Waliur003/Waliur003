@@ -158,18 +158,27 @@ My long-term goal is to become an engineer who can design and operate secure clo
 
 ## Cloud Engineering Portfolio
 
+My cloud engineering portfolio focuses on designing, automating, operating, monitoring, and securing AWS infrastructure across **disaster recovery, networking, serverless systems, containers, Kubernetes, CI/CD, observability, FinOps, reliability engineering, and AI-powered cloud workloads**.
+
+Each project is built to strengthen a different part of cloud engineering rather than repeating the same architecture. I focus on understanding **why each AWS service is used, how components communicate, what can fail, how the system is monitored, how costs are controlled, and how the infrastructure can be reproduced and improved using automation and Infrastructure as Code**.
+
 | Project | Engineering Focus |
 |---|---|
 | [Automated EBS Snapshot DR Vault](https://github.com/Waliur003/automated-ebs_snapshot-dr-vault) | Automated EBS backups, retention management, disaster recovery, monitoring, and SNS notifications |
-| [Secure Global Static Website](https://github.com/Waliur003/secure-global-static-website) | S3, CloudFront, Route 53, ACM, WAF, HTTPS, global delivery, and Terraform |
+| [Secure Global Static Website](https://github.com/Waliur003/secure-global-static-website) | S3, CloudFront, Route 53, ACM, WAF, HTTPS, global content delivery, security controls, and Terraform |
 | [Serverless Security Gate](https://github.com/Waliur003/serverless-security-gate) | API Gateway, Lambda, DynamoDB, IAM, logging, and scalable serverless architecture |
 | [Intelligent Media Analyzer](https://github.com/Waliur003/intelligent-media-analyzer) | Event-driven image processing with S3, Lambda, Rekognition, DynamoDB, and SNS |
-| [Silent Scalper Data Pipeline](https://github.com/Waliur003/silent-scalper-data-pipeline) | Serverless data processing, scheduled events, NoSQL storage, monitoring, and alerting |
-| [Multi-Tier AI Web Application](https://github.com/Waliur003/customer-inquiry-manager-ai-pipeline) | EC2, Flask, RDS, VPC networking, Bedrock, IAM, and private database connectivity |
-| [DevSecOps Ingress Pipeline](https://github.com/Waliur003/devsecops-ingress-pipeline) | Jenkins/GitHub Actions, Docker, Trivy, ECR, Terraform, and automated deployment |
-| [Kubernetes Fortress](https://github.com/Waliur003/eks-kubernetes-fortress-identity-federation) | Amazon EKS, Docker, Helm, Terraform, ingress, autoscaling, identity federation, and observability |
-| [AI Meeting Analyst Pipeline](https://github.com/Waliur003/serverless-ai-meeting-analyst-pipeline) | S3, SQS, Lambda, Transcribe, Bedrock, DynamoDB, and asynchronous processing |
-| [Conversion King AI Web Application](https://github.com/Waliur003/aws-multi-az-alb-ec2-conversion-king) | EC2, ALB, Auto Scaling, RDS, ElastiCache, Bedrock, CloudWatch, and SNS |
+| [Silent Scalper Data Pipeline](https://github.com/Waliur003/silent-scalper-data-pipeline) | Serverless data processing, scheduled events, NoSQL storage, monitoring, failure handling, and alerting |
+| [Multi-Tier AI Web Application](https://github.com/Waliur003/customer-inquiry-manager-ai-pipeline) | EC2, Flask, RDS, VPC networking, Amazon Bedrock, IAM, and private database connectivity |
+| [DevSecOps Ingress Pipeline](https://github.com/Waliur003/devsecops-ingress-pipeline) | Jenkins/GitHub Actions, Docker, Trivy, ECR, Terraform, security gates, and automated deployment |
+| [Kubernetes Fortress](https://github.com/Waliur003/eks-kubernetes-fortress-identity-federation) | Amazon EKS, Docker, Helm, Terraform, ingress, autoscaling, workload identity, networking, and observability |
+| [AI Meeting Analyst Pipeline](https://github.com/Waliur003/serverless-ai-meeting-analyst-pipeline) | S3, SQS, Lambda, Amazon Transcribe, Bedrock, DynamoDB, asynchronous processing, retries, and event-driven architecture |
+| [Conversion King AI Web Application](https://github.com/Waliur003/aws-multi-az-alb-ec2-conversion-king) | Multi-AZ EC2 architecture, Application Load Balancer, Auto Scaling, RDS, ElastiCache, Bedrock, CloudWatch, SNS, scalability, and high availability |
+| 🚧 Cloud Cost Calculator | AWS Cost Explorer, Lambda, EventBridge, CloudWatch billing metrics, tiered alarms, SNS notifications, S3 dashboarding, FinOps, spend analysis, and proactive cloud cost governance |
+| 🚧 Website Uptime Monitor | EventBridge scheduled synthetic checks, Lambda, HTTP/TLS validation, latency monitoring, content verification, DynamoDB history, SNS incident alerts, S3 dashboards, uptime measurement, and SRE observability |
+| 🚧 AI Customer Service Bot | API Gateway, Lambda, DynamoDB conversation state, Amazon Bedrock, input/output validation, rate limiting, CloudWatch monitoring, SNS escalation, and human-support fallback workflows |
+| 🚧 AI Inventory Tracker | EC2-hosted application, RDS MySQL, POS/webhook integration, inventory transactions, Amazon Bedrock demand analysis, EventBridge scheduling, SES reporting, and business-focused cloud architecture |
+| 🚧 Intelligent Doc Engine — Enterprise Capstone | S3 document ingestion, Lambda orchestration, Amazon Textract, Bedrock/SageMaker embeddings, OpenSearch vector retrieval, DynamoDB metadata, semantic search, RAG architecture, monitoring, and MLOps feedback workflows |
 
 ---
 
@@ -234,7 +243,7 @@ My projects are designed to demonstrate more than successful deployment. I focus
 
 ## Current Goals
 
-- Complete the AI Cloud Engineering portfolio
+- Complete the final Cloud Engineering projects
 - Complete the AI Cloud Security portfolio
 - Deepen Linux, networking, Kubernetes, Terraform, and cloud troubleshooting skills
 - Strengthen cloud system design and architecture decision-making
@@ -243,7 +252,6 @@ My projects are designed to demonstrate more than successful deployment. I focus
 - Secure a cloud engineering, infrastructure, DevOps, platform engineering, or cloud security internship
 
 ---
-
 
 ## Let's Connect
 
